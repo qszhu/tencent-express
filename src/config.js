@@ -1,8 +1,8 @@
 const CONFIGS = {
-  templateUrl:
+  templateUrl: // TODO: modify
     'https://serverless-templates-1300862921.cos.ap-beijing.myqcloud.com/express-demo.zip',
-  framework: 'express',
-  frameworkFullname: 'Express.js',
+  framework: 'nestjs',
+  frameworkFullname: 'Nest.js',
   handler: 'sl_handler.handler',
   runtime: 'Nodejs10.15',
   exclude: ['.git/**', '.gitignore', '.DS_Store'],

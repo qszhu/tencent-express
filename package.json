@@ -1,5 +1,5 @@
 {
-  "name": "@serverless/express",
+  "name": "@serverless/nestjs",
   "version": "0.0.15",
   "main": "src/serverless.js",
   "publishConfig": {

@@ -1,5 +1,5 @@
 {
-  "name": "@serverless/express",
+  "name": "@serverless/nestjs",
   "main": "./serverless.js",
   "publishConfig": {
     "access": "public"
